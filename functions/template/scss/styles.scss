@@ -2,10 +2,10 @@
 
 
 
-@import "@ecomplus/storefront-template/template/scss/themes/clean-gray/variables"; 
+@import "@ecomplus/storefront-template/template/scss/themes/darkly/variables"; @import "bootswatch/dist/darkly/variables"; @import "@ecomplus/storefront-template/template/scss/themes/clean-gray/variables"; 
 
 @import "@ecomplus/storefront-twbs/scss/styles";
 
-@import "@ecomplus/storefront-template/template/scss/themes/clean-gray/custom"; 
+@import "bootswatch/dist/darkly/bootswatch"; @import "@ecomplus/storefront-template/template/scss/themes/darkly/custom"; @import "@ecomplus/storefront-template/template/scss/themes/clean-gray/custom"; 
 
 @import "main";
