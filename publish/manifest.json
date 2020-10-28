@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "seriedesign",
-  "background_color": "#ffffff",
-  "theme_color": "#222831"
+  "background_color": "#daffff",
+  "theme_color": "#2228af"
 }
